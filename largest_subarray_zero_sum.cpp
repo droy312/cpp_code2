@@ -3,7 +3,7 @@
 
 // Input: [15, -2, 2, -8, 1, 7, 10, 23]
 // Output: 5
-// Explanation: The largest subarray with 0 sum is -2 2 8 1 7
+// Explanation: The largest subarray with 0 sum is -2 2 -8 1 7
 
 #include <iostream>
 #include <vector>
